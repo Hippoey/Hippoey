@@ -11,7 +11,6 @@ I am currently working on
 
 </a>
 
-Contacts: 
 Discord: Hippoey#6509
 
 
