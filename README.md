@@ -2,7 +2,7 @@
 
 Hi, i'm Hippoey and i'm an aircraft developer for the flight simulator X Plane 11.
 
-I am currently working on 
+
 
 <a href="https://github.com/jstrieb/github-stats">
 
@@ -12,11 +12,9 @@ I am currently working on
 </a>
 
 Discord: Hippoey#6509
+Discord Server: https://discord.gg/nsUjnhJe 
 
 
 
 
 
-k cya
-
-nyooooooooooom
