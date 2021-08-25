@@ -11,8 +11,6 @@ Hi, i'm Hippoey and i'm an aircraft developer for the flight simulator X Plane 1
 
 </a>
 
-Discord: Hippoey#6509.  
-Discord Server: https://discord.gg/nsUjnhJe 
 
 
 
