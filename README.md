@@ -1,6 +1,6 @@
 # I am Hippoey
 
-Hi, i'm Hippoey and i'm an aircraft developer for the flight simulator X Plane 11.
+Hi, i'm Hippoey
 
 
 
